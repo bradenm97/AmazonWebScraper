@@ -2,8 +2,8 @@
 
 ## Project Overview
 
-I created a web scraper using Pythons Beautiful soup. The script takes in an input from the user. This input is what gets searched in Amazon. The code will loop until every item on the first twenty pages of results have been scrapped.  The scraper is looking into the HTML code grabbing the text associated with different tags. The findings are then ran through a number of error proofing to help us receive clean data. The results are then stored and published into an CSV. A tableau dashboard was created to display the findings.
-[dashboard](https://public.tableau.com/app/profile/braden.millard/viz/AmazonWebScrapingResultsDashboard1/AmazonWebScrapingDashboard)
+I created a web scraper using Pythons Beautiful soup. The script takes in an input from the user. This input is what gets searched in Amazon. The code will loop until every item on the first twenty pages of results have been scrapped.  The scraper is looking into the HTML code grabbing the text associated with different tags. The findings are then ran through a number of error proofing to help us receive clean data. The results are then stored and published into an CSV. A tableau [dashboard](https://public.tableau.com/app/profile/braden.millard/viz/AmazonWebScrapingResultsDashboard1/AmazonWebScrapingDashboard) was created to display the findings.
+
 
 ##Lessons Learned
 
